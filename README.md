@@ -16,6 +16,6 @@ To run the code in this repository, you need the following dependencies:
 ### Compressed Image
 ![Alt Text](compressed.png)
 
-## Dependencies
+## Evaluation
  - initial size of the original image is 625 kb
  - final size after compression is 196 kb
