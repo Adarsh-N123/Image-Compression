@@ -14,4 +14,4 @@ To run the code in this repository, you need the following dependencies:
 ![Alt Text](original.png)
 
 ### Compressed Image
-![Alt Text](compressed.jpg)
+![Alt Text](compressed.png)
