@@ -19,3 +19,8 @@ To run the code in this repository, you need the following dependencies:
 ## Evaluation
  - initial size of the original image is 625 kb
  - final size after compression is 196 kb
+
+## Possible Future Updates
+ - PDF compression
+ - Image segmentation
+ - Using images segmentation and ocr to read data from PDF
