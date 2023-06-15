@@ -11,7 +11,7 @@ To run the code in this repository, you need the following dependencies:
 - NumPy
 
 ### Original Image
-![Alt Text](original.png){: width:"400" }
+![Alt Text](original.png){: width:"40" }
 
 ### Compressed Image
 ![Alt Text](compressed.png)
