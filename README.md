@@ -24,3 +24,8 @@ To run the code in this repository, you need the following dependencies:
  - PDF compression
  - Image segmentation
  - Using images segmentation and ocr to read data from PDF
+
+## Image Segmentation
+
+## Segmentation with RGB format
+- k=
