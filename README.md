@@ -28,10 +28,7 @@ To run the code in this repository, you need the following dependencies:
 ## Image Segmentation
 
 - Original Image
-- RGB format
-- ![Alt Text](compressed.png)
-- HSV format
-- ![Alt Text](compressed.png)
+- ![Alt Text](fincomp.jpg)
   
 ## Segmentation with RGB format
 - k=4
