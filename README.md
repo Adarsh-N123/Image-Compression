@@ -11,7 +11,7 @@ To run the code in this repository, you need the following dependencies:
 - NumPy
 
 ### Original Image
-![Alt Text](original.png){ width:"40px" }
+![Alt Text](original.png)
 
 ### Compressed Image
 ![Alt Text](compressed.png)
@@ -28,7 +28,7 @@ To run the code in this repository, you need the following dependencies:
 ## Image Segmentation
 
 - Original Image
-- ![Alt Text](fincomp.jpg)
+- <img src="fincomp.jpg" alt="Image" width="300">
   
 ## Segmentation with RGB format
 - k=4
