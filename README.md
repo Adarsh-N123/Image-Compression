@@ -28,18 +28,18 @@ To run the code in this repository, you need the following dependencies:
 ## Image Segmentation
 
 - Original Image
-- <img src="fincomp.jpg" alt="Image" width="300">
+- <img src="fincomp.jpg" alt="Image" width="200">
   
 ## Segmentation with RGB format
 - k=4
-- ![Alt Text](segmentedfincomp.png)
+- <img src="segmentedfincomp.png" alt="Image" width="200">
 - k=6
-- ![Alt Text](segmentedfincomprgb6.png)
+- <img src="segmentedfincomprgb6.png" alt="Image" width="200">
 
 ## Segmentation with HSV format
 - k=2
-- ![Alt Text](segmentedfincomp2.png)
+- <img src="segmentedfincomp2.png" alt="Image" width="200">
 - k=4
-- ![Alt Text](segmentedfincomp3.png)
+- <img src="segmentedfincomp3.png" alt="Image" width="200">
 - k=6
-- ![Alt Text](segmentedfincomp4.png)
+- <img src="segmentedfincomp4.png" alt="Image" width="200">
