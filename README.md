@@ -28,4 +28,15 @@ To run the code in this repository, you need the following dependencies:
 ## Image Segmentation
 
 ## Segmentation with RGB format
-- k=
+- k=4
+- ![Alt Text](segmentedfincomp.png)
+- k=6
+- ![Alt Text](segmentedfincomprgb6.png)
+
+## Segmentation with HSV format
+- k=2
+- ![Alt Text](segmentedfincomp2.png)
+- k=4
+- ![Alt Text](segmentedfincomp3.png)
+- k=6
+- ![Alt Text](segmentedfincomp4.png)
